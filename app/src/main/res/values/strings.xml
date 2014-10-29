@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMKTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_login">Sign In</string>
+    <string name="product_description">Description:</string>
+    <string name="product_title">Product title</string>
+    <string name="product_desc_text">product description text</string>
+    <string name="title_activity_product_details">ProductDetailsActivity</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_up">Register</string>
+    <string name="action_logout">Logout</string>
+    <string name="btn_add_review">Add Review</string>
+    <string name="text_reviews">Reviews</string>
+    <string name="image_description">image of product</string>
+
+</resources>
